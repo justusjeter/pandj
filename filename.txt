@@ -1,1 +1,2 @@
 git push - pushes the edits into the main branch
+git pull - pulls all new edits on to local repo 
