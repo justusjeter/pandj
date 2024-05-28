@@ -1,2 +1,3 @@
 git push - pushes the edits into the main branch
-git pull - pulls all new edits on to local repo 
+git pull - pulls all new edits on to local repo
+git merge - merges main file path to feature file path 
